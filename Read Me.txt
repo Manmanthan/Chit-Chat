@@ -1,0 +1,9 @@
+Thanks for getting a look at my project.
+
+1.The program is made using Python-2.
+
+2.Make sure to install steganography python package on your system before running the program.
+
+3.Enter image.jpg file for encoding the message and output.jpg file for decoding the message. 
+
+I would love to get your feedback and feel free ask any questions regarding the project.
